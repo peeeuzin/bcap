@@ -1,4 +1,4 @@
-# Bcap
+# Bcap (or Binary 🧢)
 A data format in binary (better than BSON)
 
 ## Specification
